@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "id": "d774",
+      "name": "Shashank kumar",
+      "email": "shashank1742002@gmail.com",
+      "phone": "06205690133"
+    },
+    {
+      "id": "5185",
+      "name": "qwerty",
+      "email": "qw@gmail.com",
+      "phone": "8523697414"
+    },
+    {
+      "id": "6fb7",
+      "name": "abcdef",
+      "email": "abc@gmail.com",
+      "phone": "1234467899"
+    }
+  ]
+}

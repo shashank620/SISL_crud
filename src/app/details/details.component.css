@@ -1,0 +1,32 @@
+* {
+  margin: 0 auto;
+
+}
+
+.p-card {
+  margin-bottom: 3rem;
+}
+
+@media (min-width: 768px) {
+  .p-card {
+    margin: 0.5rem;
+  }
+}
+
+.p-grid {
+  margin: 0;
+}
+
+button {
+  margin-right: 0.5rem;
+}
+
+.user {
+  text-align: center;
+  margin-bottom: 3rem;
+  background: #c31432;
+  background: -webkit-linear-gradient(to bottom, #240b36, #c31432);
+  background: linear-gradient(to bottom, #240b36, #c31432);
+  padding: 1rem;
+  color: #ffff;
+}
